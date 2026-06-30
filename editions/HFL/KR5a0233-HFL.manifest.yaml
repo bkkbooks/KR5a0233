@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0233/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5a0233/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 還丹祕訣養赤子神方
+  date: '2015-08-28 23:42:44.483123'
+  source:
+    repository: kanripo
+    path: KR5a0233
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0233_000-HFL.yaml, hash: 'sha256:434c2bd42645a487ac055a74e02a8fc0f9ec5f2c8a8ff05006b9c9edaddddc74'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0233_000-HFL.markers.yaml, hash: 'sha256:3ea2ca121c8e27d9945b2f1f09d8c5cc05d31d692005187a7e67e7d2a51f2edc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0233_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 1564
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:9f12a6bb89dcfe1b0baac8d575e6617848f48ca50c216e6770bd3a06ced45206
